@@ -23,9 +23,13 @@
 
 
 - Desafios de Projetos: Crie Um Portfólio Vencedor
-- 
+
 
 - **Desafio de projeto:** Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+
+### 🚀 Explorando a Nuvem: Conceitos, Arquitetura e AWS
+
+**Link para o projeto no NotebookLM:**  ***https://notebooklm.google.com/notebook/a9571037-963c-4b6b-89de-f41d1e755300***
 
 
 
