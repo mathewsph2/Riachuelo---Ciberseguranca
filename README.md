@@ -74,6 +74,13 @@
 - **Desafio de código:** Conceitos de Cibersegurança com Python
 
 
+### 🧰 Ferramentas & Recursos
+
+- https://tails.net/      **Tails**: é um sistema operacional portátil que te protege de vigilância e censura.
+- https://www.torproject.org/download/      **Tor Browser**: Proteja-se contra rastreamento, vigilância e censura.
+- https://windscribe.com/pt  **Windscribe:** Ferramentas de privacidade e segurança de alto nível para proteger sua pele e desbloquear a Internet.
+
+
 
 
 ## 4. 🗂️ Hacking Ético: Vulnerabilidades e Testes de Invasão  
