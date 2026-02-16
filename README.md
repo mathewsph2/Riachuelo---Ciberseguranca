@@ -108,6 +108,15 @@
 - **Desafio de projeto:** Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
 
 
+### 🧰 Ferramentas & Recursos
+
+- OSINT
+- Google Hacking
+- Shodan
+- Maltego
+- Foca
+
+
 
 ## 5. 🗂️ Avançando na Análise e Proteção de Ataques Cibernéticos  
 
